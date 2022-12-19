@@ -43,7 +43,7 @@ C. Automation Testing:
 - Time (6-1, 6-2)
 
 
-**Tester 3: Aufar**
+**Tester 3: Muhammad Aufar Syaiputra**
 
 A. Test Cases:
 - Recruitment (1-6)
