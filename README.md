@@ -13,7 +13,7 @@ Automation Used:
 ---
 TESTER ASSIGNEE:
 
-**Tester 1:  Arandea**
+**Tester 1:  Arandea Joy Pradana
 
 A. Test Cases:
 - Admin
